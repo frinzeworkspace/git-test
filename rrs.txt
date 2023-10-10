@@ -1,0 +1,42 @@
+1. Programming video games and simulations in science education: exploring computational thinking through code analysis
+
+Various aspects of computational thinking (CT) could be supported by educational contexts such as simulations and video-games construction. In this field study, potential differences in student motivation and learning were empirically examined through students’ code. For this purpose, we performed a teaching intervention that took place over five weeks, with two-hour sessions per week, plus two more weeks for the pretest and post-test projects. Students were taught programming concepts through a science project; one group represented the function of a basic electric circuit by creating a simulation, while the other group represented the same function by creating a video game in which a player should achieve a score in order to win. Video game construction resulted in projects with higher CT skills and more primitives, as measured through projects’ code analysis. Moreover, the video-game context seems to better motivate students for future engagement with computing activities.
+
+Acknowledgements
+The authors would like to thank all the students and the school teachers for their participation in the didactic intervention. We would also like to thank Michail N . Giannakos for his help in designing and conducting this research and Letizia Jaccheri for her useful comments and support in an earlier phase of the project. In the reported research, the appropriate procedures were followed according to institutional contexts and ethics. Every student participated in the study voluntarily. Data obtained from the students were fully anonymous, and derived through pre- and post-tests, surveys, and observation. The survey did not contain questions of a personally sensitive nature. The collected data were analysed in an aggregate manner and used exclusively for educational and research purposes.
+
+Disclosure statement
+There is no conflict of interest within this study, and the data set sharing is a natural extension of open access, at the request of the authors.
+Notes on contributors
+Varvara Garneli is a PhD candidate at the Department of Informatics of the Ionian University. Her current research involves the use of game programming in computing and science education.
+
+Konstantinos Chorianopoulos is a maker, scholar, and mentor. He has designed open systems for research and learning. He has been teaching at the Ionian University and at the Hellenic Open University.
+
+source: https://www.tandfonline.com/doi/abs/10.1080/10494820.2017.1337036
+
+2. Learning through games
+Author: 
+Leah Hoffmann
+Abstract
+Electronic games can inspire players to explore new ideas and concepts. By gaining a better understanding of the dynamic between player and game, researchers hope to develop more interesting and effective approaches
+
+
+Cited By
+
+Rizvic S, Mijatovic B, Boskovic D and Ivkovic-Kihic I. (2022). Workflow of Extended Reality Applications for Museum Exhibitions 2022 International Balkan Conference on Communications and Networking (BalkanCom). 10.1109/BalkanCom55633.2022.9900866. 978-1-6654-8764-1. (189-194).
+https://ieeexplore.ieee.org/document/9900866/
+
+Sjöberg J and Brooks E. (2021). Discourses of Digital Game Based Learning as a Teaching Method . Design, Learning, and Innovation. 10.1007/978-3-030-78448-5_9. (120-139).
+https://link.springer.com/10.1007/978-3-030-78448-5_9
+
+Lahiri U. (2020). Scope of Virtual Reality to Autism Intervention. A Computational View of Autism. 10.1007/978-3-030-40237-2_4. (83-130).
+http://link.springer.com/10.1007/978-3-030-40237-2_4
+
+On the surface, it seems like teaching about games should be easy. After all, students are highly motivated, enjoy engaging with course content, and have extensive personal experience with videogames. However, games education can be surprisingly complex. I explore the question of what it means to understand games by looking at the challenges and problems faced by students who are taking games-related classes. My results suggest that learning about games can be challenging for multiple reasons. Some of the more relevant findings include realizing that extensive prior videogame experience often interferes with students’ abilities to reason critically and analytically about games, and that students have difficulties articulating their experiences and observations about games. In response to these challenges, my research explores how we can use online learning environments to support learning about games by (1) helping students get more from their experiences with games, and (2) helping students use what they know to establish deeper understanding. I explore each of these strategies through the design and use of two online learning environments: GameLog and the Game Ontology Wiki. GameLog is an online blogging environment designed to help students reflect on their game playing experiences. GameLog differs from traditional blogging environments because each user maintains multiple parallel blogs, with each blog devoted to a single game. The Game Ontology wiki provides a context for students to contribute and participate legitimately and authentically in the Game Ontology Project. The Game Ontology Project is a games studies research project that is creating a framework for describing, analyzing and studying games, by defining a hierarchy of concepts abstracted from an analysis of many specific games. GameLog and the Game Ontology Wiki were used in three university level games-related classes by more than 250 students. Results show that students found that participating in these online learning environments was a positive learning experience. In addition to improving their relationships to videogames as a medium, it also helped students broaden and deepen their understanding of videogames. Students also felt it provided them with a vehicle for expression, communication, and collaboration. Students found that by reflecting on their experiences playing games they began to understand how game design elements helped shape that experience. Most importantly, they stepped back from their traditional role of “gamers” or “fans” and engaged in reasoning critically and analytically about the games they were studying. In the case of GameLog, I show how blogging, in particular blogging about experiences of gameplay, can be a useful activity for supporting learning and understanding about games. For the Game Ontology Wiki, I show how it is possible to design learning environments that are approachable to learners, allow them to contribute legitimately to external communities of practice, and support visibility and access to the practices of a broader community.
+
+
+source: https://dl.acm.org/doi/abs/10.1145/1536616.1536624
+
+3. Source:https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1147690&dswid=5840
+
+4. source: https://www.researchgate.net/profile/Tiffany-Barnes-3/publication/228964387_Game2learn_A_study_of_games_as_tools_for_learning_introductory_programming_concepts/links/02e7e5154a61a50ede000000/Game2learn-A-study-of-games-as-tools-for-learning-introductory-programming-concepts.pdf
